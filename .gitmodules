@@ -1,3 +1,24 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git://git.wincent.com/command-t.git
+[submodule "bundle/unimpaired"]
+	path = bundle/unimpaired
+	url = https://github.com/tpope/vim-unimpaired
+[submodule "bundle/sensible"]
+	path = bundle/sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "bundle/commentary"]
+	path = bundle/commentary
+	url = https://github.com/tpope/vim-commentary
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround
+[submodule "bundle/rake"]
+	path = bundle/rake
+	url = https://github.com/tpope/vim-rake
+[submodule "bundle/markdown"]
+	path = bundle/markdown
+	url = https://github.com/tpope/vim-markdown
