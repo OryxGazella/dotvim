@@ -66,5 +66,3 @@ function! <SID>StripTrailingWhitespaces()
    let @/=_s
    call cursor(l, c)
 endfunction
-
-let g:syntastic_ruby_checkers=['rubocop', 'mri']
