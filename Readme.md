@@ -14,13 +14,6 @@
     git submodule init
     git submodule update
 
-## Command-T ##
-
-You might have to change the makefile with the following.
-
-    -CFLAGS += -std=c99 -Wall -Wextra -Wno-unused-parameter
-    +CFLAGS += -std=gnu99 -Wall -Wextra -Wno-unused-parameter -lpthread
-
 # Sources #
 
 * Adapted from Drew Neil's dotvim [repository](https://github.com/nelstrom/dotvim)
