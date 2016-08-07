@@ -31,3 +31,6 @@
 [submodule "bundle/elixir"]
 	path = bundle/elixir
 	url = https://github.com/elixir-lang/vim-elixir
+[submodule "bundle/gradle"]
+	path = bundle/gradle
+	url = git@github.com:tfnico/vim-gradle.git
