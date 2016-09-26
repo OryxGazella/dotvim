@@ -3,7 +3,8 @@ call pathogen#helptags()
 
 syntax on
 filetype plugin indent on
-colorscheme skittles_berry
+set background=dark
+colorscheme solarized
 
 if has("autocmd")
     " Syntax of these are pretty rigid
